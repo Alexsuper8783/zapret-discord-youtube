@@ -43,6 +43,9 @@ ffzap.com
 betterttv.net
 7tv.app
 7tv.io
+lwjgl.org
+www.lwjgl.org
+build.lwjgl.org
 maven.neoforged.net
 neoforged.net
 cloudfront.net
