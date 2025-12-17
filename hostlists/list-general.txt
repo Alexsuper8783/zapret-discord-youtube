@@ -43,3 +43,10 @@ ffzap.com
 betterttv.net
 7tv.app
 7tv.io
+maven.neoforged.net
+neoforged.net
+cloudfront.net
+curseforge.com
+mediafilez.forgecdn.net
+edge.forgecdn.net
+maven.minecraftforge.net
