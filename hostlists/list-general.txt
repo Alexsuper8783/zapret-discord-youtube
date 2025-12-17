@@ -50,8 +50,6 @@ curseforge.com
 mediafilez.forgecdn.net
 edge.forgecdn.net
 maven.minecraftforge.net
-build.lwjgl.org
-lwjgl.org
 roblox.com
 www.roblox.com
 auth.roblox.com
